@@ -9,4 +9,5 @@
 
 # Запуск тестов
 
-1. Запуск тестов: `php vendor/bin/phpunit tests`
+1. Запуск тестов: `php vendor/bin/phpunit tests/{FILE_NAME}` \
+Например: `php vendor/bin/phpunit tests/CalculateTotalTest.php`
